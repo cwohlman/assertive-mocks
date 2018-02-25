@@ -1,7 +1,7 @@
 {
   "name": "assertive-mocks",
   "version": "0.1.0",
-  "main": "lib/index.js",
+  "main": "dist/lib/index.js",
   "license": "MIT",
   "dependencies": {
   },
